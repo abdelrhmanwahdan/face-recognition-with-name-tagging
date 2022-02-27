@@ -1,8 +1,8 @@
 # face recognition with name tagging
 
-In this project I'm using [face recognition] (https://pypi.org/project/face-recognition/) library to perform face detection with name tagging to make an online attendence system which add the name and the time every person checks with on the system in csv file.
+In this project I'm using [face recognition](https://pypi.org/project/face-recognition/) library to perform face detection with name tagging to make an online attendence system which add the name and the time every person checks with on the system in csv file.
 
-[face recognition] (face_recognition.jpeg)
+[face recognition](face_recognition.jpeg)
 
 ## Contents
 1. attendence.py : the main project.
